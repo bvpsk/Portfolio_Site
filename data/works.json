@@ -1,0 +1,42 @@
+[
+  {
+    "heading": "A Meet cute that touched several million hearts",
+    "subheading": "Instagram Reel / Writer + Director / 2026",
+    "writeup": "Two strangers are destined to meet again and again, and spend a day together, until they are not strangers anymore.",
+    "points": ["11 Million + Views", "Meet Cute", "Rom Com"],
+    "link": "https://example.com/project-two",
+    "embedUrl": "",
+    "isInstagram": true,
+    "instagramEmbedUrl": "https://www.instagram.com/reel/DWWbTowk-Vi/"
+  },
+{
+    "heading": "A film about family and yearning",
+    "subheading": "Short film / Writer + Director + DOP + Editor + Animator / 2025",
+    "writeup": "As a lonely father awaits the return of his son's family from abroad for Diwali, his handcrafted crackers come to life, only to confront the harsh reality of separation.",
+    "points": ["Presented by Chai Bisket", "One-man crew", "Animated Live Action", "Emotional storytelling"],
+    "link": "https://www.youtube.com/watch?v=KObepRBnc3w",
+    "embedUrl": "https://www.youtube.com/embed/KObepRBnc3w",
+    "isInstagram": false,
+    "instagramEmbedUrl": ""
+  },
+  {
+    "heading": "Feelings as delicate as a flower",
+    "subheading": "Instagram Reel / Writer + Director / 2026",
+    "writeup": "A scared coworker finally dares to confess his feelings to his crush.",
+    "points": ["1 Million + Views", "Office Crush", "Rom Com"],
+    "link": "https://www.instagram.com/reel/DY4cjDlT9Sq/",
+    "embedUrl": "",
+    "isInstagram": true,
+    "instagramEmbedUrl": "https://www.instagram.com/reel/DY4cjDlT9Sq/"
+  },
+  {
+    "heading": "A Keyboard lovestory",
+    "subheading": "Instagram Mini Series / Writer + Director / 2026",
+    "writeup": "A mini Instagram series that explores how a college student steps out of his comfort zone and opens up to his college crush.",
+    "points": ["Creative Storytelling", "Rom Com", "Stop Motion"],
+    "link": "https://www.instagram.com/reel/DaaWPWezB_E/",
+    "embedUrl": "",
+    "isInstagram": true,
+    "instagramEmbedUrl": "https://www.instagram.com/reel/DaaWPWezB_E/"
+  }
+]
