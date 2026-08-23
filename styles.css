@@ -43,7 +43,7 @@ em { font-family: Georgia, serif; font-weight: 400; letter-spacing: -.08em; }
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  -webkit-text-stroke: 3px #000;
+  -webkit-text-stroke: 2px #000;
   paint-order: stroke fill;
   animation: gradient-flow 7s ease-in-out infinite;
   letter-spacing: 2%;
@@ -59,7 +59,7 @@ em { font-family: Georgia, serif; font-weight: 400; letter-spacing: -.08em; }
 .intro { font-size: clamp(15px, 1.45vw, 20px); line-height: 1.5; max-width: 480px; margin: 0; }
 .availability { align-self: flex-start; font: 500 11px 'DM Mono', monospace; margin: 5px 0; white-space: nowrap; }
 .status-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--coral); margin-right: 9px; }
-.sub-title { font-size: 80px; line-height: 1.5; max-width: 480px; margin: 0;}
+.sub-title { font-size: 45px; max-width: 480px; margin: 0;}
 
 .works { background: var(--ink); color: var(--paper); padding-top: 10vh; padding-bottom: 14vh; }
 .works .section-kicker { color: #a9aea9; }
@@ -74,7 +74,7 @@ em { font-family: Georgia, serif; font-weight: 400; letter-spacing: -.08em; }
 .work-copy ul li:first-child { font-size: 18px; color: var(--coral); }
 .text-link { border-bottom: 1px solid var(--acid); color: var(--acid); font: 500 11px 'DM Mono', monospace; padding-bottom: 4px; text-transform: uppercase; }
 .video-frame { aspect-ratio: 16 / 10; background: #353c38; overflow: hidden; }
-/* .video-frame-insta { aspect-ratio: 16 / 10; background: #353c38; overflow: hidden;} */
+.video-frame-insta { width: 80%;}
 .video-frame iframe { width: 100%; height: 100%; border: 0; }
 .video-frame:has(.instagram-media) {  background: red; display: flex; justify-content: center; align-items: flex-start; }
 /* .instagram-media { height: 300%; width: 100%; min-width: 0 !important; margin: 0 !important; } */
